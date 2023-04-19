@@ -1,2 +1,2 @@
-const n = 55446
-console.log(n)
+const book = 12
+console.log(book)
