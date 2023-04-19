@@ -1,2 +1,2 @@
-const p = 257.697
-console.log(p)
+const n = 55446
+console.log(n)
