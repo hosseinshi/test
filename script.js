@@ -1,2 +1,2 @@
-const book = 12
-console.log(book)
+const book = 15
+console.log("apple")
